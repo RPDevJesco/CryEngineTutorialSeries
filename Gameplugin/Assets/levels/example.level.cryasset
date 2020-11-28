@@ -1,0 +1,54 @@
+<AssetMetadata version="0" type="Level" guid="6811d90d-6cbe-567e-2a78-7c127c666319" source="" timestamp="1600199579">
+ <Files>
+  <File path="example/example.level"/>
+ </Files>
+ <Dependencies>
+  <Path>%editor%/objects/envcube.cgf</Path>
+  <Path>%editor%/objects/envcube.mtl</Path>
+  <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/highmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/livepreview.dds</Path>
+  <Path>%engine%/engineassets/icons/lowmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumebox.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumeellipsoid.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceaninto.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanintolowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutof.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutoflowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/water/wateroceanbottom.mtl</Path>
+  <Path>%engine%/engineassets/objects/primitive_sphere.cgf</Path>
+  <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
+  <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
+  <Path>character/originalmodel/swagger walk.fbm/ch44_1001_diffuse.dds</Path>
+  <Path>character/originalmodel/swagger walk.fbm/ch44_1001_normal.dds</Path>
+  <Path>character/originalmodel/swagger walk.fbm/ch44_1001_specular.dds</Path>
+  <Path>character/originalmodel/swagger walk.fbm/ch44_1002_diffuse.dds</Path>
+  <Path>character/originalmodel/swagger walk.fbm/ch44_1002_normal.dds</Path>
+  <Path>character/originalmodel/swagger walk.fbm/ch44_1002_specular.dds</Path>
+  <Path>character/originalmodel/swagger walk.mtl</Path>
+  <Path>character/originalmodel/swagger walk_mixamo_com.caf</Path>
+  <Path>character/originalmodel/swagger walk_take_001.caf</Path>
+  <Path>character/untitled.cdf</Path>
+  <Path>character/untitled_armature_armature_mixamo_com_layer0.caf</Path>
+  <Path>character/untitled_ch44.skin</Path>
+  <Path>editor/resourcecache/character/originalmodel/swagger walk.fbm/ch44_1001_diffuse.dds</Path>
+  <Path>editor/resourcecache/character/originalmodel/swagger walk.fbm/ch44_1001_normal.dds</Path>
+  <Path>editor/resourcecache/character/originalmodel/swagger walk.fbm/ch44_1001_specular.dds</Path>
+  <Path>editor/resourcecache/character/originalmodel/swagger walk.fbm/ch44_1002_diffuse.dds</Path>
+  <Path>editor/resourcecache/character/originalmodel/swagger walk.fbm/ch44_1002_normal.dds</Path>
+  <Path>editor/resourcecache/character/originalmodel/swagger walk.fbm/ch44_1002_specular.dds</Path>
+  <Path>editor/resourcecache/textures/cubemaps/example/entity-17_cm.dds</Path>
+  <Path>editor/resourcecache/textures/cubemaps/example/entity-17_cm_diff.dds</Path>
+  <Path>engineassets/materials/water/ocean_default.mtl</Path>
+  <Path>engineassets/texturemsg/defaultsolids.mtl</Path>
+  <Path>engineassets/textures/grey.dds</Path>
+  <Path usageCount="1">libs/environmentpresets/example.env</Path>
+  <Path>libs/flownodes/substitutions.xml</Path>
+  <Path>objects/geore mirror/modloft_george_mirror_36_mat(1).cgf</Path>
+  <Path>objects/geore mirror/modloft_george_mirror_36_mat(1).mtl</Path>
+  <Path>objects/mirror 06.mtl</Path>
+  <Path>objects/sphere.cgf</Path>
+  <Path>textures/cubemaps/example/entity-17_cm.dds</Path>
+  <Path>textures/cubemaps/example/entity-17_cm_diff.dds</Path>
+ </Dependencies>
+</AssetMetadata>
